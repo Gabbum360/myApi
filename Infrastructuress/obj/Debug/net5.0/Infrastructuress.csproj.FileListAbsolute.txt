@@ -1,0 +1,15 @@
+C:\Users\Gabbum\Projects\Infrastructuress\obj\Debug\net5.0\Infrastructuress.csproj.AssemblyReference.cache
+C:\Users\Gabbum\Projects\Infrastructuress\obj\Debug\net5.0\Infrastructuress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabbum\Projects\Infrastructuress\obj\Debug\net5.0\Infrastructuress.AssemblyInfoInputs.cache
+C:\Users\Gabbum\Projects\Infrastructuress\obj\Debug\net5.0\Infrastructuress.AssemblyInfo.cs
+C:\Users\Gabbum\Projects\Infrastructuress\obj\Debug\net5.0\Infrastructuress.csproj.CoreCompileInputs.cache
+C:\Users\Gabbum\Projects\Infrastructuress\bin\Debug\net5.0\Infrastructuress.deps.json
+C:\Users\Gabbum\Projects\Infrastructuress\bin\Debug\net5.0\Infrastructuress.dll
+C:\Users\Gabbum\Projects\Infrastructuress\bin\Debug\net5.0\Infrastructuress.pdb
+C:\Users\Gabbum\Projects\Infrastructuress\bin\Debug\net5.0\Important.dll
+C:\Users\Gabbum\Projects\Infrastructuress\bin\Debug\net5.0\Important.pdb
+C:\Users\Gabbum\Projects\Infrastructuress\obj\Debug\net5.0\Infrastructuress.csproj.CopyComplete
+C:\Users\Gabbum\Projects\Infrastructuress\obj\Debug\net5.0\Infrastructuress.dll
+C:\Users\Gabbum\Projects\Infrastructuress\obj\Debug\net5.0\refint\Infrastructuress.dll
+C:\Users\Gabbum\Projects\Infrastructuress\obj\Debug\net5.0\Infrastructuress.pdb
+C:\Users\Gabbum\Projects\Infrastructuress\obj\Debug\net5.0\ref\Infrastructuress.dll

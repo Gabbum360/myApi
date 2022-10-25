@@ -1,0 +1,12 @@
+C:\Users\Gabbum\Projects\Important\obj\Debug\net5.0\Important.csproj.AssemblyReference.cache
+C:\Users\Gabbum\Projects\Important\obj\Debug\net5.0\Important.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabbum\Projects\Important\obj\Debug\net5.0\Important.AssemblyInfoInputs.cache
+C:\Users\Gabbum\Projects\Important\obj\Debug\net5.0\Important.AssemblyInfo.cs
+C:\Users\Gabbum\Projects\Important\obj\Debug\net5.0\Important.csproj.CoreCompileInputs.cache
+C:\Users\Gabbum\Projects\Important\bin\Debug\net5.0\Important.deps.json
+C:\Users\Gabbum\Projects\Important\bin\Debug\net5.0\Important.dll
+C:\Users\Gabbum\Projects\Important\bin\Debug\net5.0\Important.pdb
+C:\Users\Gabbum\Projects\Important\obj\Debug\net5.0\Important.dll
+C:\Users\Gabbum\Projects\Important\obj\Debug\net5.0\refint\Important.dll
+C:\Users\Gabbum\Projects\Important\obj\Debug\net5.0\Important.pdb
+C:\Users\Gabbum\Projects\Important\obj\Debug\net5.0\ref\Important.dll
